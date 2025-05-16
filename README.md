@@ -1,6 +1,6 @@
 <a href="#" style="color: blue;">Assalamualaikum Warahmahtullahi Wabarakatuh</a>
 
-<span class="008000">NAMA ROTI BAKAR</span>.
+(span class="008000">NAMA ROTI : BAKAR</span)
 
 
 
