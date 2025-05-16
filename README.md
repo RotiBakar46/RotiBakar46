@@ -6,7 +6,7 @@ def bersih()
     os.system(" cleaqr ")
 # tampilan  
 def menu()
-    bersih()
+    bersih():
     peint ("\033[1;32m")
     os,system(" figlet Roti Bakar ")
     os.system(" cleaqr ")
