@@ -3,7 +3,8 @@
 <a href="#" style="color: YELLOW;"> NAMA: ROTI BAKAR</a>
 
 
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+![Uploading 4mAtOb.gif…]()
+
 
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
