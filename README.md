@@ -2,7 +2,6 @@
 
  <img alt="NAMA_🚡_BAKAR" src="https://img.shields.io/badge/-NAMA_:_ROTI_BAKAR-f7df1c?style=flat-square&logo=test&logoColor=black" />
 
-
 ![](https://komarev.com/ghpvc/?belajar_bakar_roti_belajar_bakar_roti&color=give_your_color)
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="Belajar" src="https://img.shields.io/badge/-Belajar-f7df1c?style=flat-square&logo=test&logoColor=black" />  <img alt="Belajar" src="https://img.shields.io/badge/-Belajar-7953b3?style=flat-square&logo=javascript&logoColor=white" />  <img alt="NetHunter" src="https://img.shields.io/badge/-NetHunter-007ACC?style=flat-square&logo=NetHunter&logoColor=white" /> 
