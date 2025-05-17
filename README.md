@@ -16,18 +16,7 @@
 
 
 
-We're hiring! https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e
-7344.038740f6.js:2 Uncaught Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
-    at li (7344.038740f6.js:2:277175)
-    at ku (7344.038740f6.js:2:349829)
-    at wc (7344.038740f6.js:2:337403)
-    at gc (7344.038740f6.js:2:337331)
-    at yc (7344.038740f6.js:2:337194)
-    at ic (7344.038740f6.js:2:332359)
-    at S (7344.038740f6.js:2:359179)
-    at A (7344.038740f6.js:2:359711)
-    at 7344.038740f6.js:2:424104
-    at p (7344.038740f6.js:2:424222)
+
 
 
 
