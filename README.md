@@ -5,7 +5,7 @@
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
 
-![radar-love](https://github.com/user-attachments/assets/7efd06d0-22b1-4079-a0d9-d3d92619205a)
+![radar-sonar](https://github.com/user-attachments/assets/5ba51154-20d3-4639-9a34-6621357c6896)![radar-sonar](https://github.com/user-attachments/assets/5a53635b-4b15-4606-99c0-c5492fa5630f)
 
 
 <h3>My GitHub contributions summary</h3>
