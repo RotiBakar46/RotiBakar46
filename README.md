@@ -16,6 +16,9 @@
 
 
 
+<source data-testid="og" srcset="https://miro.medium.com/v2/resize:fit:640/1*c-1rnFd12cu8KtzROPI9VA.png 640w, https://miro.medium.com/v2/resize:fit:720/1*c-1rnFd12cu8KtzROPI9VA.png 720w, https://miro.medium.com/v2/resize:fit:750/1*c-1rnFd12cu8KtzROPI9VA.png 750w, https://miro.medium.com/v2/resize:fit:786/1*c-1rnFd12cu8KtzROPI9VA.png 786w, https://miro.medium.com/v2/resize:fit:828/1*c-1rnFd12cu8KtzROPI9VA.png 828w, https://miro.medium.com/v2/resize:fit:1100/1*c-1rnFd12cu8KtzROPI9VA.png 1100w, https://miro.medium.com/v2/resize:fit:1400/1*c-1rnFd12cu8KtzROPI9VA.png 1400w, https://miro.medium.com/v2/resize:fit:4800/1*c-1rnFd12cu8KtzROPI9VA.png 4800w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 100vw">
+
+
 
 
 
