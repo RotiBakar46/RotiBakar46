@@ -2,6 +2,8 @@
 
 <a href="#" style="color: YELLOW;"> NAMA: ROTI BAKAR</a>
 
+![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="tes" src="https://img.shields.io/badge/-tes-f7df1c?style=flat-square&logo=test&logoColor=black" />  <img alt="Belajar" src="https://img.shields.io/badge/-belajar-7953b3?style=flat-square&logo=javascript&logoColor=white" />  <img alt="NetHunter" src="https://img.shields.io/badge/-NetHunter-007ACC?style=flat-square&logo=NetHunter&logoColor=white" />
 
 
