@@ -1,6 +1,6 @@
 <a href="#" style="color: blue;">Assalamualaikum Warahmahtullahi Wabarakatuh</a>
 
- <img alt="NAMA_🚡_BAKAR" src="https://img.shields.io/badge/-ROTI_BAKAR-f7df1c?style=flat-square&logo=test&logoColor=black" />
+ <img alt="NAMA_🚡_BAKAR" src="https://img.shields.io/badge/-nAMA_:_ROTI_BAKAR-f7df1c?style=flat-square&logo=test&logoColor=black" />
 
 <a href="#" style="color: YELLOW;"> NAMA: ROTI BAKAR</a>
 
