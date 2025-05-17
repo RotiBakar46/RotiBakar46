@@ -7,8 +7,6 @@
 
 ![radar-love](https://github.com/user-attachments/assets/7efd06d0-22b1-4079-a0d9-d3d92619205a)
 
-![radar-love](https://github.com/user-attachments/assets/e4e64225-a561-41ba-aea1-300ad637abea)![radar-love](https://github.com/user-attachments/assets/e4e64225-a561-41ba-aea1-300ad637abea)
-
 
 <h3>My GitHub contributions summary</h3>
                                      
