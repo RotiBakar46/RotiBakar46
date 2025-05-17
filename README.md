@@ -16,7 +16,8 @@
 
 
 
-<img alt="" class="bg lq mw c" width="700" height="378" loading="lazy" role="presentation" src="https://miro.medium.com/v2/resize:fit:700/1*c-1rnFd12cu8KtzROPI9VA.png">
+
+
 
 
 
