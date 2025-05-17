@@ -1,5 +1,7 @@
 <a href="#" style="color: blue;">Assalamualaikum Warahmahtullahi Wabarakatuh</a>
 
+ <img alt="NAMA_🚡_BAKAR" src="https://img.shields.io/badge/-ROTI_BAKAR-f7df1c?style=flat-square&logo=test&logoColor=black" />
+
 <a href="#" style="color: YELLOW;"> NAMA: ROTI BAKAR</a>
 
 ![](https://komarev.com/ghpvc/?belajar_bakar_roti_belajar_bakar_roti&color=give_your_color)
