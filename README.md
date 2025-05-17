@@ -10,9 +10,9 @@
 
 <h2>My GitHub contributions summary</h2>
                                      
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycosad&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycosad&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 
 
