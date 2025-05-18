@@ -1,5 +1,5 @@
 
-![Assalamualaikum wahrahmatullahi wabarakatatuh](https://komarev.com/ghpvc/?username=your_username&color=give_your_color
+![](https://komarev.com/ghpvc/?Assalamualaikum wahrahmatullahi wabarakatatuh_username&color=give_your_color
 
 <img alt="NAMA_🚡_BAKAR" src="https://img.shields.io/badge/-NAMA_:_ROTI_BAKAR-f7df1c?style=flat-square&logo=test&logoColor=black" />
 <img src="https://img.shields.io/badge/Mafia_Roti-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mafia_Roti Badge"/>
