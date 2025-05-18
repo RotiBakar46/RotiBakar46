@@ -32,6 +32,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 
 
-![mqdefault](https://github.com/user-attachments/assets/a6647a3e-faf8-40e9-95ae-f10dbf11460b)
+
 
 
