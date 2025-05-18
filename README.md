@@ -16,6 +16,7 @@
 
 
 
+
 ![radar-sonar](https://github.com/user-attachments/assets/5ba51154-20d3-4639-9a34-6621357c6896)![radar-sonar](https://github.com/user-attachments/assets/5a53635b-4b15-4606-99c0-c5492fa5630f)
 
 <h2>My GitHub contributions summary</h2>
@@ -27,7 +28,7 @@
 
  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 
- 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 
 
