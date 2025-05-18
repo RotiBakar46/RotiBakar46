@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?Assalamualaikum wahrahmatullahi wabarakatatuh_username&color=give_your_color
+
 
 <img alt="NAMA_🚡_BAKAR" src="https://img.shields.io/badge/-NAMA_:_ROTI_BAKAR-f7df1c?style=flat-square&logo=test&logoColor=black" />
 <img src="https://img.shields.io/badge/Mafia_Roti-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mafia_Roti Badge"/>
@@ -17,6 +17,14 @@
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycosad&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ROTI_BAKAR&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycosad&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
 
 
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
