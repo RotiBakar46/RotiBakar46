@@ -15,12 +15,6 @@
 
 
 
-
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
-
-
 ![radar-sonar](https://github.com/user-attachments/assets/5ba51154-20d3-4639-9a34-6621357c6896)![radar-sonar](https://github.com/user-attachments/assets/5a53635b-4b15-4606-99c0-c5492fa5630f)
 
 <h2>My GitHub contributions summary</h2>
