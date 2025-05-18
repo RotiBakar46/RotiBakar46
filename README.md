@@ -31,5 +31,4 @@
 
 
 
-![](https://komarev.com/ghpvc/?Roti-bakar_username&color=give_your_color)
-
+![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
