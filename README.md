@@ -1,7 +1,7 @@
 <a href="#" style="color: blue;">Assalamualaikum Warahmahtullahi Wabarakatuh</a>
 
  <img alt="NAMA_🚡_BAKAR" src="https://img.shields.io/badge/-NAMA_:_ROTI_BAKAR-f7df1c?style=flat-square&logo=test&logoColor=black" />
- <img src="https://img.Mafia_Roti.io/badge/Mafia_Roti-blue?style=for-the-badge&logo=Mafia_Roti&logoColor=white" alt="Mafia Roti"/>
+ <img src="https://img.Mafia_Roti.io/badge/Mafia_Roti-blue?style=for-the-badge&logo=Mafia_Roti&logoColor=white" alt="Mafia_Roti"/>
   </a>
 
 ![](https://komarev.com/ghpvc/?belajar_bakar_roti_belajar_bakar_roti&color=give_your_color)
