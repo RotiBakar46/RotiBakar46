@@ -7,8 +7,8 @@
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="Belajar" src="https://img.shields.io/badge/-Belajar-f7df1c?style=flat-square&logo=test&logoColor=black" />  <img alt="Belajar" src="https://img.shields.io/badge/-Belajar-7953b3?style=flat-square&logo=javascript&logoColor=white" /><img alt="NetHunter" src="https://img.shields.io/badge/-NetHunter-007ACC?style=flat-square&logo=NetHunter&logoColor=white" />  <img alt="Belajar" src="https://img.shields.io/badge/-Belajar-DD0031?style=flat-square&logo=Belajar&logoColor=white" />  <img alt="Belajar" src="https://img.shields.io/badge/-Belajar-be3d19?style=flat-square&logo=belajar&logoColor=white" />  <img alt="Belajar" src="https://img.shields.io/badge/-Belajar-30a8ff?style=flat-square&logo=Belajar%20photoshop&logoColor=white" /> <img alt="Belajar" src="https://img.shields.io/badge/-Belajar-ff62f6?style=flat-square&logo=Belajar%20Rd&logoColor=white" />
 
 
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+
 
 
 
