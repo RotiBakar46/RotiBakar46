@@ -19,10 +19,7 @@
 
 
 
-
-
-
-
+<img alt="Use facebook logo instead of a blue circle icon? · Issue #10 ..." id="dimg_054paNPWOcGQ4-EP-JymgQg_1" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/
 
 
 
